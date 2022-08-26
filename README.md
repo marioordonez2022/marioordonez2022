@@ -5,7 +5,7 @@
 I'm Mario from Colombia, Financial analyst with a specialist degree in finance.with great interest in learning and supporting the financial area and investments. 
 
 
-✔ : Risk managment, business advisor, finance analyst
+✔ Experience: Risk managment, business advisor, finance analyst
 
 🧠Skills: EXCEL / POWER BI / PYTHON / SQL
 
