@@ -9,4 +9,9 @@ I'm Mario from Colombia, Financial analyst with a specialist degree in finance.w
 
 🧠Skills: EXCEL / POWER BI / PYTHON / SQL
 
+- 🔭 I’m currently working on Financial Models 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marioordonez2022)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mario-ordonez//)  
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marioordonez2022&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
