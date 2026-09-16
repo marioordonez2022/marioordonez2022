@@ -1,20 +1,14 @@
-FP&A Portfolio — Mario Ordoñez
-Work samples from 6+ years in financial planning and analysis across consumer goods and healthcare. Data is anonymized or generalized where needed.
+Hi, I'm Mario Ordoñez — Senior FP&A Analyst
+Financial Planning & Analysis · Power BI · SQL · Financial Modeling
 
-Files
-📊 Cash flow projection and liquidity position.xlsx
-Five-year cash flow projection built for a mid-sized healthcare organization (Asmet Salud). Models operating cash inflows and outflows across the projection horizon to support long-term liquidity planning and financial sustainability decisions.
+🌎 Cali, Colombia — Remote · EST/CST overlap · Available as independent contractor (B2B)
 
-⚠️ Risk Heatmap power bi.pdf
-Power BI dashboard export showing a financial risk heatmap: probability × impact scoring across operational risk categories. Built to give finance leadership a single-view snapshot of exposure areas requiring action.
+6+ years in FP&A across consumer goods and healthcare. Currently at Artika for Living — a Canadian consumer goods company with $200M+ in annual revenue across 20+ countries — where I manage financial planning, variance analysis, month-end close, and business intelligence as a remote contractor.
 
-📈 Cost Tracking – Portfolio.xlsx
-Monthly budget vs. actuals cost tracking model. Highlights variances by category to support management reporting and corrective action. (Note: filename on disk includes a typo — "Traicing" — scheduled for rename.)
+What I build:
 
-🗺️ Travel Company – Revenue & Cost Dashboard.pbix
-Sample Power BI dashboard built on a travel company dataset to demonstrate end-to-end BI development: data modeling, DAX measures, and visual design for financial reporting.
-
-🐍 Financial Analysis – Python Exercise.ipynb
-Python notebook using pandas and matplotlib to explore and visualize financial data. Built as a learning exercise to complement Excel-based financial modeling with programmatic data analysis.
-
-Senior FP&A Analyst | Cali, Colombia | Remote contractor | EST/CST overlap
+Multi-scenario financial models (budgets, forecasts, cash flow projections)
+Board-ready Power BI dashboards connected to ERP data
+Automated close and reporting processes (cut close from 10 to 8 days)
+KPI frameworks aligned to business unit P&Ls
+Tools: Excel · Power BI · SQL · NetSuite · Microsoft Dynamics NAV · Python
