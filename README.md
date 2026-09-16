@@ -1,18 +1,20 @@
-### Hi there 👋, my name is Mario
-#### Remote Risk managment, investments and finance
-![Remote Risk managment, investments and finance](https://media-exp1.licdn.com/dms/image/C4E16AQGzwBhB595_8g/profile-displaybackgroundimage-shrink_350_1400/0/1660654804387?e=1666828800&v=beta&t=JC_mqZYZTJCm0EPTjYnQ6fxoGDFCZiA2UgPIwjcbEtc)
+FP&A Portfolio — Mario Ordoñez
+Work samples from 6+ years in financial planning and analysis across consumer goods and healthcare. Data is anonymized or generalized where needed.
 
-I'm Mario from Colombia, Financial analyst with a specialist degree in finance.with great interest in learning and supporting the financial area and investments. 
+Files
+📊 Cash flow projection and liquidity position.xlsx
+Five-year cash flow projection built for a mid-sized healthcare organization (Asmet Salud). Models operating cash inflows and outflows across the projection horizon to support long-term liquidity planning and financial sustainability decisions.
 
-✔ Experience: Risk managment, business advisor, finance analyst
+⚠️ Risk Heatmap power bi.pdf
+Power BI dashboard export showing a financial risk heatmap: probability × impact scoring across operational risk categories. Built to give finance leadership a single-view snapshot of exposure areas requiring action.
 
-https://github.com/marioordonez2022/MyWork
+📈 Cost Tracking – Portfolio.xlsx
+Monthly budget vs. actuals cost tracking model. Highlights variances by category to support management reporting and corrective action. (Note: filename on disk includes a typo — "Traicing" — scheduled for rename.)
 
-🧠Skills: EXCEL / POWER BI / PYTHON / SQL
+🗺️ Travel Company – Revenue & Cost Dashboard.pbix
+Sample Power BI dashboard built on a travel company dataset to demonstrate end-to-end BI development: data modeling, DAX measures, and visual design for financial reporting.
 
-- 🔭 I’m currently working on Financial Models 
+🐍 Financial Analysis – Python Exercise.ipynb
+Python notebook using pandas and matplotlib to explore and visualize financial data. Built as a learning exercise to complement Excel-based financial modeling with programmatic data analysis.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/marioordonez2022)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mario-ordonez//)  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marioordonez2022&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Senior FP&A Analyst | Cali, Colombia | Remote contractor | EST/CST overlap
